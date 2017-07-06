@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## 选择哪种缓存方案
 
-You can use the [editor on GitHub](https://github.com/dwliangq/dwliangq.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+在优化系统时，我们一般会考虑到缓存的使用。而现有的缓存方案不外乎就是本地缓存、远程缓存，至于选择哪一种缓存作为方案，标准答案就是看情况。这个就比较尴尬了，这种答案最不利于团队成员的开发。大家都看情况，肯定是各种情况。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 双双对比
 
-### Markdown
+#本地缓存
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#远程缓存
 
 ```markdown
 Syntax highlighted code block
